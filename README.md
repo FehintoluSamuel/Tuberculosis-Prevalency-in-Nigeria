@@ -20,7 +20,7 @@ Relevant tuberculosis data was extracted from a CSV file within a larger health 
 - Libraries Used: pandas, numpy, seaborn, matplotlib, os
 
 ## Key Findings
--From around 0.3 million to nearly 0.6 million between 2000 and 2020.
+-**From around 0.3 million to nearly 0.6 million between 2000 and 2020.
 - TB incidence remains significantly higher in HIV-negative individuals, though HIV-positive cases are still notable.
 - Treatment coverage has not kept pace with rising prevalence, indicating a gap in health service delivery.
 - Visual insights show that while deaths are rising more slowly, the overall TB burden is growing.

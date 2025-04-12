@@ -24,11 +24,11 @@ Relevant tuberculosis data was extracted from a CSV file within a larger health 
 - TB incidence remains significantly higher in HIV-negative individuals, though HIV-positive cases are still notable.
 - Treatment coverage has not kept pace with rising prevalence, indicating a gap in health service delivery.
 - Visual insights show that while deaths are rising more slowly, the overall TB burden is growing.
-  ![Dashboard Overview] (tb_dashboard.jpg)
+  ![Dashboard Overview] (Tuberculosis_prevalency/tb_dashboard.jpg)
 
 ## Folder Structure
 
-project-root/
+Tuberculosis_prevalency/
 │
 ├── tb_prevalency.ipynb                                      # Main analysis notebook
 ├── tb_dashboard.png                                         # Power BI dashboard image

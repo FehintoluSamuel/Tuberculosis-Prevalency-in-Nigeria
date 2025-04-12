@@ -29,12 +29,12 @@ Relevant tuberculosis data was extracted from a CSV file within a larger health 
 
 project-root/
 │
-├── tb_prevalency.ipynb        # Main analysis notebook
-├── dashboard.png              # Power BI dashboard image
-├── presentation.pdf           # (Optional) Project summary slides
-├── README.md                  # Project overview and documentation
-├── requirements.txt           # Project dependencies
-└── .gitignore                 # Files to exclude from Git tracking
+├── tb_prevalency.ipynb                                      # Main analysis notebook
+├── tb_dashboard.png                                         # Power BI dashboard image
+├── Health Medical Presentation Tuberculosis.pptx            # Project summary slides
+├── README.md                                                # Project overview and documentation
+├── requirements.txt                                         # Project dependencies
+└── .gitignore                                               # Files to exclude from Git tracking
 
 ## How to Use
 1. Clone or download this repo
